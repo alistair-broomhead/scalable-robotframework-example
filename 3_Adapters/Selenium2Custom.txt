@@ -1,0 +1,4 @@
+| *** Settings *** |
+| Library        | TestLibraries.Selenium2Custom.Selenium2Custom |
+
+| *** Variables *** |
